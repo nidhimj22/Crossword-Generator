@@ -1,3 +1,3 @@
-Crossword Generator in C++ written as a part of a course assignement 
+Crossword Generator in C++ (Homework Assignement)
 Change grid.txt to change the grid.(0 for black, 1 for white)
 Change words.txt to change the words.
