@@ -1,2 +1,5 @@
 language: cpp
 make crossword
+compiler:
+    - clang
+    - gcc
